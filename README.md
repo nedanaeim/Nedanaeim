@@ -1,103 +1,150 @@
-# Hi, I'm Neda Naeim
+<div align="center">
 
-Aspiring data analyst building a practical portfolio across SQL, Python, Tableau, Power BI, Excel, and business storytelling. I like turning messy data into clear analysis, decision-ready dashboards, and recommendations that make sense to non-technical stakeholders.
+![Neda Naeim profile banner](https://capsule-render.vercel.app/api?type=waving&color=7A4CB0&height=185&section=header&text=Neda%20Naeim&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20Portfolio&descAlignY=56&descSize=18)
 
-## Portfolio Navigation
+# Data Analyst | SQL | Python | Tableau | Power BI
 
-[![SQL](https://img.shields.io/badge/SQL-Data%20Modelling-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#sql-projects)
-[![Python](https://img.shields.io/badge/Python-Analysis%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](#python-projects)
-[![Tableau](https://img.shields.io/badge/Tableau-BI%20Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#tableau-projects)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Coming%20Next-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#coming-next)
-[![Excel](https://img.shields.io/badge/Excel-Reporting%20%26%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#coming-next)
-[![Storytelling](https://img.shields.io/badge/Data%20Storytelling-Business%20Recommendations-7A4CB0?style=for-the-badge)](#business-storytelling)
+I turn raw data into clear analysis, useful dashboards, and business recommendations that people can actually act on.
 
-## Featured Portfolio Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neda%20Naeim-7A4CB0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neda-n-22982721a/)
+[![GitHub](https://img.shields.io/badge/GitHub-nedanaeim-4B236B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nedanaeim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-In%20Progress-9B59B6?style=for-the-badge)](#portfolio-map)
 
-| Project | Business focus | Tools | Status |
-| --- | --- | --- | --- |
-| [Customer Retention & Revenue Intelligence](https://github.com/nedanaeim/customer-retention-revenue-intelligence) | Customer retention, revenue KPIs, cohort analysis, customer segmentation | SQL, Python, Tableau-ready datasets | Complete |
-| Power BI Sales Performance Dashboard | Sales trends, executive KPIs, commercial recommendations | Power BI, DAX, Excel | Planned |
-| Excel Business Reporting Case Study | Clean reporting workbook, pivots, formulas, decision summary | Excel | Planned |
-| Python EDA & Prediction Project | Exploratory analysis, feature engineering, simple modelling | Python, pandas, scikit-learn | Planned |
+</div>
+
+---
+
+## Portfolio Map
+
+This profile is organised by the skills most relevant to data analyst roles. Use the links below to jump straight to the evidence for each area.
+
+| Explore | What you will find |
+| --- | --- |
+| [SQL Projects](#sql-projects) | data modelling, cleaning, KPI queries, cohorts, segmentation |
+| [Python Projects](#python-projects) | repeatable analysis workflows, automation, processed datasets |
+| [Dashboard Projects](#dashboard-projects) | Tableau-ready data, BI thinking, executive reporting |
+| [Business Storytelling](#business-storytelling) | business questions, insights, recommendations, documentation |
+| [Next Builds](#next-builds) | the next projects I am adding to this portfolio |
+
+## Featured Project
+
+<table>
+  <tr>
+    <td width="35%">
+      <a href="https://github.com/nedanaeim/customer-retention-revenue-intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nedanaeim&repo=customer-retention-revenue-intelligence&theme=midnight-purple&hide_border=true" alt="Customer Retention & Revenue Intelligence pinned repository">
+      </a>
+    </td>
+    <td width="65%">
+      <h3>Customer Retention & Revenue Intelligence</h3>
+      <p>An end-to-end data analytics project using the Brazilian Olist ecommerce dataset. The project investigates customer retention, revenue drivers, high-value regions, product category performance, and churn-risk segments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4B236B?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/Python-7A4CB0?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Tableau-9B59B6?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+        <img src="https://img.shields.io/badge/Business%20Insights-6D3A8E?style=flat-square" alt="Business Insights">
+      </p>
+      <p><a href="https://github.com/nedanaeim/customer-retention-revenue-intelligence">View the project repository</a></p>
+    </td>
+  </tr>
+</table>
+
+## Toolkit
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4B236B?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7A4CB0?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-9B59B6?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-B56BD7?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-6D3A8E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2D143F?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ## SQL Projects
 
 ### Customer Retention & Revenue Intelligence
 
-[View project repository](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
+[View project](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
 
-This project analyses the Brazilian Olist ecommerce dataset to understand customer retention, revenue drivers, product/category performance, and regional opportunities.
+Evidence in this project:
 
-Skills demonstrated:
-
-- SQL table creation, cleaning, transformations, and KPI queries
+- SQL table creation, cleaning, and transformation workflow
+- KPI queries for revenue, order volume, customers, AOV, and repeat purchase rate
 - Cohort retention analysis
-- Customer segmentation
-- Dashboard-ready dataset design
-- Business recommendations for retention growth
+- Customer value and churn-risk segmentation
+- Dashboard-ready final dataset
 
 ## Python Projects
 
 ### Customer Retention & Revenue Intelligence
 
-[View project repository](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
+[View project](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
 
-Python is used to automate the project workflow, build processed CSV outputs, calculate summary KPIs, and generate lightweight visual/reporting assets.
+Evidence in this project:
 
-Skills demonstrated:
-
-- Repeatable data processing
+- Repeatable data processing workflow
 - CSV ingestion and export
-- KPI calculation
-- Analysis-ready dataset generation
-- Reproducible portfolio workflow
+- Automated KPI calculation
+- Processed datasets for dashboarding
+- Lightweight report and visual output generation
 
-## Tableau Projects
+## Dashboard Projects
 
-### Customer Retention & Revenue Intelligence
+### Tableau-Ready Retention Dashboard Dataset
 
-[View project repository](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
+[View project](https://github.com/nedanaeim/customer-retention-revenue-intelligence)
 
-This project includes Tableau-ready datasets and dashboard build notes focused on executive KPIs, retention trends, regional performance, and product category analysis.
+This project prepares clean datasets for executive dashboarding, including customer segments, monthly revenue, category performance, state performance, and cohort retention.
 
-Skills demonstrated:
+Dashboard skills shown:
 
-- Dashboard planning
-- KPI selection
-- Chart and layout thinking
-- Translating analysis into stakeholder-friendly visuals
+- KPI selection for business users
+- Dashboard-ready data modelling
+- Regional and category performance views
+- Retention-focused reporting structure
 
 ## Business Storytelling
 
-The portfolio is designed to show not only technical work, but also how each analysis answers a business question.
+I want each project to answer a real business question, not just show charts. The current project is written around:
 
-Current evidence:
+- What is happening?
+- Why does it matter?
+- Which customers, regions, or categories should the business focus on?
+- What should the business do next?
+
+Portfolio evidence:
 
 - Business problem framing
 - Insight summaries
-- Data dictionaries
-- Clear recommendations
-- Portfolio documentation for recruiters and hiring managers
+- Data dictionary
+- Executive-style recommendations
+- Reproducible workflow notes
 
-## Coming Next
+## Next Builds
 
-These are the next project sections I plan to build into this profile:
+These are the next sections I am building into this portfolio.
 
-| Area | Project idea | Skills to show |
-| --- | --- | --- |
-| Power BI | Sales performance dashboard | DAX, data modelling, interactive reporting |
-| Excel | Business reporting workbook | formulas, pivots, lookups, dashboard formatting |
-| Python EDA | Customer, finance, or operations analysis | pandas, visualisation, insight generation |
-| Machine Learning | Simple prediction project | feature engineering, model evaluation, communication |
-| Web Scraping | Market or job analytics dataset | data collection, cleaning, analysis workflow |
-| SQL Case Study | Business questions answered in SQL | joins, CTEs, windows, ranking, KPI queries |
+| Priority | Project | Tools | What it will demonstrate |
+| ---: | --- | --- | --- |
+| 1 | Power BI Sales Performance Dashboard | Power BI, DAX, Excel | interactive reporting, DAX measures, commercial KPIs |
+| 2 | Excel Business Reporting Case Study | Excel | formulas, pivots, lookups, clean reporting workbook |
+| 3 | Python EDA Project | Python, pandas, matplotlib | exploratory analysis, visualisation, insight generation |
+| 4 | SQL Case Study | SQL | joins, CTEs, window functions, ranking, KPI answers |
+| 5 | Intro Machine Learning Project | Python, scikit-learn | feature engineering, model evaluation, plain-English explanation |
 
 ## Current Focus
 
-I am building a data analytics portfolio that highlights practical business analysis, clean documentation, and tools commonly used in data analyst roles.
+I am building a focused data analytics portfolio for entry-level and junior data analyst roles, with projects that show practical business thinking, technical accuracy, and clear communication.
 
-## Contact
+## Connect
 
+- LinkedIn: [linkedin.com/in/neda-n-22982721a](https://www.linkedin.com/in/neda-n-22982721a/)
 - GitHub: [github.com/nedanaeim](https://github.com/nedanaeim)
-- LinkedIn: Add your LinkedIn profile link here
-- Email: Add your preferred contact email here
+
+<div align="center">
+
+![Purple footer](https://capsule-render.vercel.app/api?type=waving&color=7A4CB0&height=95&section=footer)
+
+</div>
