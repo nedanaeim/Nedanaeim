@@ -16,15 +16,104 @@ I turn raw data into clear analysis, useful dashboards, and business recommendat
 
 ## Portfolio Map
 
-This profile is organised by the skills most relevant to data analyst roles. Use the links below to jump straight to the evidence for each area.
+<div align="center">
 
-| Explore | What you will find |
-| --- | --- |
-| [SQL Projects](#sql-projects) | data modelling, cleaning, KPI queries, cohorts, segmentation |
-| [Python Projects](#python-projects) | repeatable analysis workflows, automation, processed datasets |
-| [Dashboard Projects](#dashboard-projects) | Tableau-ready data, BI thinking, executive reporting |
-| [Business Storytelling](#business-storytelling) | business questions, insights, recommendations, documentation |
-| [Next Builds](#next-builds) | the next projects I am adding to this portfolio |
+![Choose your route](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=720&lines=Choose+a+route+through+my+data+portfolio;Technical+skills+linked+to+business+evidence)
+
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th width="24%">Portfolio Route</th>
+      <th width="32%">Best Starting Point</th>
+      <th width="30%">What It Proves</th>
+      <th width="14%">Jump</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="#sql-projects">
+          <img src="https://img.shields.io/badge/Data%20Foundations-SQL-4B236B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL route">
+        </a>
+        <br>
+        <strong>Build the dataset</strong>
+      </td>
+      <td>Start here if you want to see how raw ecommerce data becomes clean, analysis-ready tables.</td>
+      <td>Data cleaning, joins, transformations, KPI queries, cohort logic, and segmentation.</td>
+      <td align="center">
+        <a href="#sql-projects">
+          <img src="https://img.shields.io/badge/Open-4B236B?style=flat-square" alt="Open SQL projects">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#python-projects">
+          <img src="https://img.shields.io/badge/Analysis%20Engine-Python-7A4CB0?style=for-the-badge&logo=python&logoColor=white" alt="Python route">
+        </a>
+        <br>
+        <strong>Automate the workflow</strong>
+      </td>
+      <td>Open this route to see reproducible processing, KPI generation, and exported portfolio datasets.</td>
+      <td>Automation, repeatable analysis, processed CSV outputs, and lightweight reporting assets.</td>
+      <td align="center">
+        <a href="#python-projects">
+          <img src="https://img.shields.io/badge/Open-7A4CB0?style=flat-square" alt="Open Python projects">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#dashboard-projects">
+          <img src="https://img.shields.io/badge/Decision%20Views-Dashboards-9B59B6?style=for-the-badge&logo=tableau&logoColor=white" alt="Dashboard route">
+        </a>
+        <br>
+        <strong>Design the view</strong>
+      </td>
+      <td>Use this route for dashboard-ready tables, executive KPIs, and business reporting structure.</td>
+      <td>Tableau-ready modelling, retention views, revenue trends, category views, and regional analysis.</td>
+      <td align="center">
+        <a href="#dashboard-projects">
+          <img src="https://img.shields.io/badge/Open-9B59B6?style=flat-square" alt="Open dashboard projects">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#business-storytelling">
+          <img src="https://img.shields.io/badge/Insight%20Layer-Storytelling-B56BD7?style=for-the-badge" alt="Business storytelling route">
+        </a>
+        <br>
+        <strong>Explain the value</strong>
+      </td>
+      <td>Follow this route to see how analysis becomes recommendations for real business decisions.</td>
+      <td>Problem framing, plain-English insights, stakeholder documentation, and next-step recommendations.</td>
+      <td align="center">
+        <a href="#business-storytelling">
+          <img src="https://img.shields.io/badge/Open-B56BD7?style=flat-square" alt="Open business storytelling">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#next-builds">
+          <img src="https://img.shields.io/badge/Portfolio%20Roadmap-Next%20Builds-2D143F?style=for-the-badge" alt="Next builds route">
+        </a>
+        <br>
+        <strong>See what is next</strong>
+      </td>
+      <td>Check this route for the next planned projects that will expand the portfolio skill set.</td>
+      <td>Power BI, Excel, Python EDA, SQL case studies, and an introductory machine learning project.</td>
+      <td align="center">
+        <a href="#next-builds">
+          <img src="https://img.shields.io/badge/Open-2D143F?style=flat-square" alt="Open next builds">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Featured Project
 
